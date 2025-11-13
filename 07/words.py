@@ -1,0 +1,22 @@
+animals = [
+    "aardvark",
+    "baboon",
+    "camel",
+    "dolphin",
+    "elephant",
+    "flamingo",
+    "gorilla",
+    "hippopotamus",
+    "iguana",
+    "jaguar",
+    "kangaroo",
+    "lemur",
+    "meerkat",
+    "narwhal",
+    "octopus",
+    "penguin",
+    "quokka",
+    "rhinoceros",
+    "sloth",
+    "tortoise"
+]

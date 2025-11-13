@@ -1,0 +1,3 @@
+title() -> converts a string to title case
+docstring -> documentation of functions
+    - triple quotes used for multiline strings or docstrings

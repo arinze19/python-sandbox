@@ -1,0 +1,8 @@
+[] How to reset the console in python
+[] Display do you want to play a game of blackjack
+[] Display the blackjack intro art and details 
+[]
+[] If score goes over 21 then you lose automatically
+[] How does computer keep track of score?? 
+    - do they stop when I stand??
+    - we can do a random compute for them separately that randomly decides if they should 'hit' or 'stand'

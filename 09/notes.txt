@@ -1,0 +1,4 @@
+KeyError: Trying to access a property in a dictionary that does not exist
+keys can be of any data type, when you retrieve the property just make sure the data types are the same
+dictionary.items() -> object.entries()
+max function
