@@ -1,0 +1,7 @@
+* can't change the name of a variable outside the function from inside a function 
+    - this is mainly because the local scope is created and destroyed locally
+* Namespace 
+* there is no block scope in python 
+    - variables defined in an if/while/for loop is accessible in the global scope
+    - only functions have local scope
+    - for non_function block scoped variables, it is common to define the variable first before the if/while/for loop

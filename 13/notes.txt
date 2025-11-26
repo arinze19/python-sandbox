@@ -1,0 +1,8 @@
+try-except block:
+Types of Errors:
+    - ValueError 
+    - 
+Debugger 
+    - breakpoint
+    - step over 
+    - avoid stepping into library functions (Math.round, Math.random)
